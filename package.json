@@ -4,7 +4,7 @@
   "description": "",
   "main": "app1.js",
   "scripts": {
-    "dev": "env-cmd -f ./config/dev.env nodemon ./src/app"
+    "start": "env-cmd -f ./config/dev.env nodemon ./src/app"
   },
   "author": "",
   "license": "ISC",
